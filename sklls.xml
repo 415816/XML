@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<skills>
+    <ТестированиеAPI>работа с Postman</ТестированиеAPI>
+    <OC>Базовые знания терминала Unix/Linux</OC>
+    <БазыДанныхSQL>	написание простых запросов</БазыДанныхSQL>
+    <Web-разработка>	HTML, CSS, JavaScript (React), github</Web-разработка>
+    <СетевыеТехнологии>	HTTP/HTTPS, DNS, TCP/IP</СетевыеТехнологии>
+</skills>
